@@ -13,7 +13,7 @@ sudo docker info
 
 sudo docker-compose stop
 
-sudo docker system purage
+sudo docker system prune
 sudo docker rmi f20a6d8b6721
 
 # Run Production via AWS ElasticBeanstalk 
